@@ -17,7 +17,7 @@ Welcome to the **MY** repository! 🎉 This is where you'll find all the details
 
 **GlyphAJJ** is a tool that helps you do stuff! With this project, you can do **amazing things** like:
 
-- 💡 Slidesshow
+- 💡 Slideshow
 - ⚡ Documents
 - 🚀 Drive
 
