@@ -2194,8 +2194,8 @@ To get started with **GlyphAJJ**, follow these simple steps:
 
 
 ## TOS
-Documents - Global
-Slideshow - Gold Quest
+Glyph Documents - Global
+Glyph Notes - Gold
 
 Go back up?? 
 [GoBack](#Top)
