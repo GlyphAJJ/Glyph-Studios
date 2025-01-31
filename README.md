@@ -2195,3 +2195,6 @@ To get started with **GlyphAJJ**, follow these simple steps:
 ## TOS
 Documents - Global
 Slideshow - Gold Quest
+
+Go back up?? 
+[About](#about)
